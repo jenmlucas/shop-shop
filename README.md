@@ -17,7 +17,7 @@ Shop Shop is an e-commerce app that allows users to not only shop for various it
 ## Usage
 This is what it will look like on your device. 
 
-[Deployed Link](https://secret-dusk-30828.herokuapp.com/)
+[Deployed Link](https://shopshope-commerce.herokuapp.com/)
 
 ![Book Search Engine](./client/public/images/shopshop.png)
 
